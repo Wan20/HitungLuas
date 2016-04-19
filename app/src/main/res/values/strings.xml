@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HitungLuas</string>
+    <string name="action_settings">Settings</string>
+    <string name="Panjang">Panjang</string>
+    <string name="Lebar">Lebar</string>
+    <string name="Hitung">Hitung</string>
+</resources>
