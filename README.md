@@ -1,4 +1,4 @@
 # HitungLuas
 This Program to multiple from user input
-Ex:
+###Ex:
 L = P x L;
